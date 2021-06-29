@@ -1,0 +1,15 @@
+.foot{
+    text-decoration: none;
+    color:black;
+   
+  }
+  a:hover{
+      color:white;
+  }
+  .icons{
+    text-decoration: none;
+    color:black;
+}
+  a:link{
+      color:black;
+  }
